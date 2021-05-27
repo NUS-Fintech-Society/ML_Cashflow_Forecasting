@@ -8,21 +8,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#cashflow-forecasting-with-bnp-paribas">Cashflow Forecasting with BNP Paribas</a>
-    </li>
-    <li>
-      <a href="#acknowledgements">Acknowledgements</a>
-    </li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Cashflow Forecasting with BNP Paribas
 
