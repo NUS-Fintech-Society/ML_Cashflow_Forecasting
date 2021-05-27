@@ -15,6 +15,8 @@ This project is a collaboration between NUS Fintech and [BNP Paribas](https://ww
 
 We made a Python script as our POC to make accurate prediction, using the direct method of forecasting, to obtain free cashflow and forecasted cashflow values within a user-inputted time period. 
 
+We are currently working on the dashboard prototype to present this data in a visual and more understandable way. 
+
 
 <!-- ACKNOWLEDGEMENTS -->
 <h3 align="left">Acknowledgements</h3>
