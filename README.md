@@ -17,7 +17,7 @@ We made a Python script as our POC to make accurate prediction, using the direct
 
 We are currently working on the dashboard prototype to present this data in a visual and more understandable way, as well as the ML component of it.
 
-Check our prototype out [here](https://www.figma.com/proto/I4giifKyqq1iYKWlxHPknF/Storyboard?node-id=27%3A56&scaling=scale-down&page-id=0%3A1).
+Check out our prototype [here](https://www.figma.com/proto/I4giifKyqq1iYKWlxHPknF/Storyboard?node-id=27%3A56&scaling=scale-down&page-id=0%3A1).
 
 
 <!-- ACKNOWLEDGEMENTS -->
