@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">ML Cashflow Forecasting with BNP Paribas</h3>
+  <h3 align="center">Cashflow Forecasting with BNP Paribas</h3>
   <p align="center">
   By the cashflow forecasting team (Yong Ler, Shuen Jin, Rebecca)
   </p>
