@@ -12,7 +12,7 @@ from sklearn import metrics
 
 """Data Paths"""
 input_csv = './WA_Fn-UseC_-Accounts-Receivable.csv'
-output = 'output/percent_late.txt'
+output_path = 'output/percent_late.txt'
 
 """Inputs"""
 days_late = 7 # input number of days for a payment to be considered "late". Can be 7/30/90.
@@ -38,4 +38,4 @@ total = late_0 + late_1
 percentage_of_late_payment = round((late_1 / total) * 100, 2)
 
 output = "Percentage of late payments: \n" + percentage_of_late_payment.to_string() + "%"
-print(output, file=open(output, 'w'))
+print(output, file=open(output_path, 'w'))
