@@ -2,6 +2,12 @@
 
 Late payments predictions and metrics will go in the `Chasing debtors` tab where users can view profiles of individual customers / vendors. 
 
+`percent_late.py` outputs the percentage of late payments of a customer / vendor based on their payment history, and saves it into `output/percent_late.txt`.
+
+`train.py` contains a model (Gradient Boosting Regression) that predicts how late the client will receive their invoice payments. It outputs and saves 3 imgs into `output/mean_days_late.png`, `output/payment_count.png` and `output/deviance.png`. In future when there is more data, this script can also be used for predicting how many days late individual customers / vendors of the client will pay their invoices.
+
+`combined.ipynb` is a combination of the two scripts above, along with experimentation (3 models).
+
 ### Two key metrics:
 #### 1. Percentage of late payments of a customer
 <p align="center">
