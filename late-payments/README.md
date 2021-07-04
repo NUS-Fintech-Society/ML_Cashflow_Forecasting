@@ -14,7 +14,7 @@ The model doesn't predict well for >7 days, probably due to lack of data.
 The `Forecasted Days Late` metric under `Target Setting` tab can be predicted once we have individual client data, but for now we don't have it. 
 
 <p align="center">
- <img src="./output/mean_days_late.png" width="700"/><br>
- <img src="./output/payment_count.png" width="700"/><br>
+ <img src="./output/mean_days_late.png" width="500"/><br>
+ <img src="./output/payment_count.png" width="500"/><br>
 </p>
 
