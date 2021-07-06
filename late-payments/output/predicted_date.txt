@@ -1,2 +1,0 @@
-Predicted days late: 10
-Predicted payment date: 2013-03-10
