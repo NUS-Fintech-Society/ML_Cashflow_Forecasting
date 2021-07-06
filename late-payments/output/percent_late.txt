@@ -1,3 +1,0 @@
-Percentage of late payments: 
-customerID
-0688-XNJRO    82.35%
