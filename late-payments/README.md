@@ -8,7 +8,8 @@ Late payments predictions and metrics will go in the `Chasing debtors` tab where
 
 `combined.ipynb` is a combination of the two scripts above, along with data exploration and model experimentation (3 models).
 
-### 3 key metrics:
+
+## Key metrics:
 #### 1. Percentage of late payments of a customer
 
 From `percent_late.py`.
