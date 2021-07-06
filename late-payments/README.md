@@ -37,7 +37,7 @@ From `train.py`.
 
 Forecast payment date for a sample invoice (given under `sample_invoice.csv`) of a company, given the following invoice information: 
 
-customerID, invoice_date, due_date, invoice_amount, num_of_past_invoices, disputed, late
+`customerID, invoice_date, due_date, invoice_amount, num_of_past_invoices, disputed, late`
 
 <p align="center">
  <img src="./img/predicted_date.png" width="600"/><br>
