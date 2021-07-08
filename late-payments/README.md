@@ -18,7 +18,7 @@ From `percent_late.py`.
  <img src="./img/customer_late.png" width="700"/><br>
 </p>
 
-#### 2. Prediction of when payments will be late (total)
+#### 2. Prediction of when payments will be paid (total)
 
 From `train.py`.
 
