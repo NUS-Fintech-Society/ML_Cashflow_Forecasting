@@ -31,7 +31,7 @@ The `Forecasted Days Late` metric under `Target Setting` tab will be the output 
  <img src="./output/payment_count.png" width="500"/><br>
 </p>
 
-#### 3. Forecasted payment date
+#### 3. Forecasted payment date of a specific customer / vendor
 
 From `train.py`.
 
