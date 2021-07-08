@@ -14,6 +14,8 @@ Late payments predictions and metrics will go in the `Chasing debtors` tab where
 
 From `percent_late.py`.
 
+A summary of a customer's payment history, giving insight to the company on how likely this customer will be late to pay future invoices.
+
 <p align="center">
  <img src="./img/customer_late.png" width="700"/><br>
 </p>
